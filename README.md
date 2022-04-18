@@ -1,4 +1,4 @@
-### Hi there thanks for stopping by! 👋
+### Hi there thanks for stopping by I am a Full stack web developer 👋
 
 <!--
 **iyanez2314/iyanez2314** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
