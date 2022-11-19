@@ -8,7 +8,7 @@ I have been learning to code for less than a year. I recently graduated from a 6
 
 * 🌍  I'm based in San Antonio
 * ✉️  You can contact me at [Isaac231467@gmail.com](mailto:Isaac231467@gmail.com)
-* 🧠  I'm learning to better understand react as well as java
+* 🧠  I'm learning to be a better version of myself
 * 🤝  I'm open to collaborating on ANYTHING web dev
 
 ### Skills
