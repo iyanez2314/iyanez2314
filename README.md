@@ -11,7 +11,6 @@ I have been learning to code for less than a year. I recently graduated from a 6
 * 🧠  I'm learning to be a better version of myself
 * 🤝  I'm open to collaborating on ANYTHING web dev
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=iyanez2314&theme=blueberry_duo&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 ### Skills
 
@@ -34,3 +33,5 @@ I have been learning to code for less than a year. I recently graduated from a 6
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/Iyanez2314" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/isaacyanez" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=iyanez2314&theme=blueberry_duo&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
