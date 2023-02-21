@@ -4,7 +4,7 @@ Hi 👋 My name is Isaac Yanez
 Full Stack Developer
 ------------------------
 
-I have been learning to code for less than a year. I recently graduated from a 6 month boot camp held by UTSA. In the boot camp I learned everything from HTML, CSS, JavaScript, JQuery, Bootstrap, React, Mongo DB, MySQL and much more. Currently I am still furthering my learning with Udemy courses, Free code camp, and a devs best friend google lol.
+Currently a web dev instructor at code up with 2 years of experince in  web development and software development.
 
 * 🌍  I'm based in San Antonio
 * ✉️  You can contact me at [Isaac231467@gmail.com](mailto:Isaac231467@gmail.com)
