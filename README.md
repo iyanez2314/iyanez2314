@@ -4,7 +4,7 @@ Hi 👋 My name is Isaac Yanez
 Full Stack Developer
 ------------------------
 
-Currently a web dev instructor at code up with 2 years of experince in  web development and software development.
+Web dev with 3 years of experince,
 
 * 🌍  I'm based in San Antonio
 * ✉️  You can contact me at [Isaac231467@gmail.com](mailto:Isaac231467@gmail.com)
