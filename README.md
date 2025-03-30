@@ -4,12 +4,7 @@ Hi 👋 My name is Isaac Yanez
 Full Stack Developer
 ------------------------
 
-Web dev with 3 years of experince,
-
-* 🌍  I'm based in San Antonio
-* ✉️  You can contact me at [Isaac231467@gmail.com](mailto:Isaac231467@gmail.com)
-* 🧠  I'm learning to be a better version of myself
-* 🤝  I'm open to collaborating on ANYTHING web dev
+Engineer with 3 years of experince,
 
 
 ### Skills
